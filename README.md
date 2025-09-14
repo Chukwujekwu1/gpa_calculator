@@ -58,7 +58,7 @@ GPA Calculator is a cross-platform Flutter application that helps students calcu
     - `gpa_state.dart`: BLoC state
 
 ## Screenshots
-
+![alt text](Screenshot_20250914-163411.jpg)
 
 
 ## License
